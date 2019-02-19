@@ -1,12 +1,12 @@
 {
-  "name": "search-results",
+  "name": "react-weather-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "enzyme": "^3.8.0",
     "enzyme-adapter-react-16": "^1.7.1",
-    "eslint-plugin-prettier": "^3.0.0",
-    "prettier": "^1.15.3",
+    "eslint-plugin-prettier": "^3.0.1",
+    "prettier": "^1.6.4",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-scripts": "2.1.1",
